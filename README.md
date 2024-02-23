@@ -16,11 +16,12 @@ Hobbies:
 Entrenar
 Jugar videojuegos
 
-Cosas que no me gustan en orden:
+##Cosas que no me gustan en orden:
 
 -La yuca
 -La auyama
-Cursando:
+
+##Cursando:
 
 -CVDS
 -SPTI
