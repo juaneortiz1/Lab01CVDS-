@@ -18,15 +18,15 @@ Jugar videojuegos
 
 Cosas que no me gustan en orden:
 
-La yuca
-La auyama
+-La yuca
+-La auyama
 Cursando:
 
-CVDS
-SPTI
-FDGP
-SIML
-MATD
+-CVDS
+-SPTI
+-FDGP
+-SIML
+-MATD
 
 Link:
 
