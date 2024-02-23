@@ -20,6 +20,19 @@ Jugar videojuegos
 
 -La yuca
 -La auyama
+# Título del Proyecto
+
+Descripción breve del proyecto.
+
+## Lista de Elementos
+
+- Elemento 1
+- Elemento 2
+- Elemento 3
+
+## Otra Sección
+
+...
 
 ##Cursando:
 
