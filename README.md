@@ -6,15 +6,15 @@
 
 Presentado por:   
 
-# Juan Esteban Ortiz Pastrana 
+## Juan Esteban Ortiz Pastrana 
 
-Vive en Ciudad Montes
-Edad 22
+- Vive en Ciudad Montes
+- Edad 22
 
-Hobbies:
+## Hobbies:
 
-Entrenar
-Jugar videojuegos
+- Entrenar
+- Jugar videojuegos
 
 ## Cosas que no me gustan en orden:
 
