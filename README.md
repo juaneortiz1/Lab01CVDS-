@@ -16,31 +16,19 @@ Hobbies:
 Entrenar
 Jugar videojuegos
 
-##Cosas que no me gustan en orden:
+## Cosas que no me gustan en orden:
 
--La yuca
--La auyama
-# Título del Proyecto
+- La yuca
+- La auyama
 
-Descripción breve del proyecto.
 
-## Lista de Elementos
+## Cursando:
 
-- Elemento 1
-- Elemento 2
-- Elemento 3
-
-## Otra Sección
-
-...
-
-##Cursando:
-
--CVDS
--SPTI
--FDGP
--SIML
--MATD
+- CVDS
+- SPTI
+- FDGP
+- SIML
+- MATD
 
 Link:
 
