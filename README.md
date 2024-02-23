@@ -8,9 +8,49 @@ Presentado por:  
 
 # Juan Esteban Ortiz Pastrana 
 
+Vive en Ciudad Montes
+Edad 22
 
+Hobbies:
 
-   
+Entrenar
+Jugar videojuegos
+
+Cosas que no me gustan en orden:
+
+La yuca
+La auyama
+Cursando:
+
+CVDS
+SPTI
+FDGP
+SIML
+MATD
+
+Link:
+
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+Fragmento de codigo
+
+import socket
+
+# Definir la contraseña actual
+contrasena_actual = "contraseña_actual"
+
+# Establecer la conexión al servidor en localhost y puerto 30000
+with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+    s.connect(('localhost', 30000))
+    
+    # Enviar la contraseña actual al servidor
+    s.sendall(contrasena_actual.encode())
+    
+    # Recibir la respuesta del servidor
+    data = s.recv(1024)
+    
+    # Imprimir la respuesta del servidor
+    print(data.decode())
  
 Escuela Colombiana de Ingeniería Julio Garavito   
 
